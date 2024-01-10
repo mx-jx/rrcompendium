@@ -1,6 +1,5 @@
 Package: rrcompendium
-Title: Partial Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 
-    with rrtools
+Title: ETHOS Engage
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Anna",
