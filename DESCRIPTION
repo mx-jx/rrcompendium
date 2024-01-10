@@ -1,0 +1,16 @@
+Package: rrcompendium
+Title: Partial Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 
+    with rrtools
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Anna",
+           family = "Krystalli",
+           role = c("aut", "cre"),
+           email = "annakrystalli@googlemail.com")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
